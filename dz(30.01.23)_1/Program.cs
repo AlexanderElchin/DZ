@@ -4,8 +4,8 @@ Console.Clear();
 
 Console.Write("Введите 3-х значное число: ");
 int a = Convert.ToInt32(Console.ReadLine());
-int amount = a.ToString().Length;
-if (amount < 3 || amount > 3)
+
+if (a < 100 || a > 999)
 {
     Console.WriteLine("Вы ввели не трехзначное число");
 }

@@ -13,3 +13,18 @@ C:\Users\1\Desktop\Новая папка\DZ\dz(30.01.23)_1\obj\Debug\net6.0\refi
 C:\Users\1\Desktop\Новая папка\DZ\dz(30.01.23)_1\obj\Debug\net6.0\dz(30.01.23)_1.pdb
 C:\Users\1\Desktop\Новая папка\DZ\dz(30.01.23)_1\obj\Debug\net6.0\dz(30.01.23)_1.genruntimeconfig.cache
 C:\Users\1\Desktop\Новая папка\DZ\dz(30.01.23)_1\obj\Debug\net6.0\ref\dz(30.01.23)_1.dll
+C:\Users\1\Desktop\ДОМАШНЕЕ ЗАДАНИЕ ПО c#\DZ\dz(30.01.23)_1\bin\Debug\net6.0\dz(30.01.23)_1.exe
+C:\Users\1\Desktop\ДОМАШНЕЕ ЗАДАНИЕ ПО c#\DZ\dz(30.01.23)_1\bin\Debug\net6.0\dz(30.01.23)_1.deps.json
+C:\Users\1\Desktop\ДОМАШНЕЕ ЗАДАНИЕ ПО c#\DZ\dz(30.01.23)_1\bin\Debug\net6.0\dz(30.01.23)_1.runtimeconfig.json
+C:\Users\1\Desktop\ДОМАШНЕЕ ЗАДАНИЕ ПО c#\DZ\dz(30.01.23)_1\bin\Debug\net6.0\dz(30.01.23)_1.dll
+C:\Users\1\Desktop\ДОМАШНЕЕ ЗАДАНИЕ ПО c#\DZ\dz(30.01.23)_1\bin\Debug\net6.0\dz(30.01.23)_1.pdb
+C:\Users\1\Desktop\ДОМАШНЕЕ ЗАДАНИЕ ПО c#\DZ\dz(30.01.23)_1\obj\Debug\net6.0\dz(30.01.23)_1.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\ДОМАШНЕЕ ЗАДАНИЕ ПО c#\DZ\dz(30.01.23)_1\obj\Debug\net6.0\dz(30.01.23)_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\ДОМАШНЕЕ ЗАДАНИЕ ПО c#\DZ\dz(30.01.23)_1\obj\Debug\net6.0\dz(30.01.23)_1.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\ДОМАШНЕЕ ЗАДАНИЕ ПО c#\DZ\dz(30.01.23)_1\obj\Debug\net6.0\dz(30.01.23)_1.AssemblyInfo.cs
+C:\Users\1\Desktop\ДОМАШНЕЕ ЗАДАНИЕ ПО c#\DZ\dz(30.01.23)_1\obj\Debug\net6.0\dz(30.01.23)_1.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\ДОМАШНЕЕ ЗАДАНИЕ ПО c#\DZ\dz(30.01.23)_1\obj\Debug\net6.0\dz(30.01.23)_1.dll
+C:\Users\1\Desktop\ДОМАШНЕЕ ЗАДАНИЕ ПО c#\DZ\dz(30.01.23)_1\obj\Debug\net6.0\refint\dz(30.01.23)_1.dll
+C:\Users\1\Desktop\ДОМАШНЕЕ ЗАДАНИЕ ПО c#\DZ\dz(30.01.23)_1\obj\Debug\net6.0\dz(30.01.23)_1.pdb
+C:\Users\1\Desktop\ДОМАШНЕЕ ЗАДАНИЕ ПО c#\DZ\dz(30.01.23)_1\obj\Debug\net6.0\dz(30.01.23)_1.genruntimeconfig.cache
+C:\Users\1\Desktop\ДОМАШНЕЕ ЗАДАНИЕ ПО c#\DZ\dz(30.01.23)_1\obj\Debug\net6.0\ref\dz(30.01.23)_1.dll
