@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\ДОМАШНЕЕ ЗАДАНИЕ ПО c#\DZ\Задача 27\bin\Debug\net6.0\Задача 27.exe
+C:\Users\1\Desktop\ДОМАШНЕЕ ЗАДАНИЕ ПО c#\DZ\Задача 27\bin\Debug\net6.0\Задача 27.deps.json
+C:\Users\1\Desktop\ДОМАШНЕЕ ЗАДАНИЕ ПО c#\DZ\Задача 27\bin\Debug\net6.0\Задача 27.runtimeconfig.json
+C:\Users\1\Desktop\ДОМАШНЕЕ ЗАДАНИЕ ПО c#\DZ\Задача 27\bin\Debug\net6.0\Задача 27.dll
+C:\Users\1\Desktop\ДОМАШНЕЕ ЗАДАНИЕ ПО c#\DZ\Задача 27\bin\Debug\net6.0\Задача 27.pdb
+C:\Users\1\Desktop\ДОМАШНЕЕ ЗАДАНИЕ ПО c#\DZ\Задача 27\obj\Debug\net6.0\Задача 27.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\ДОМАШНЕЕ ЗАДАНИЕ ПО c#\DZ\Задача 27\obj\Debug\net6.0\Задача 27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\ДОМАШНЕЕ ЗАДАНИЕ ПО c#\DZ\Задача 27\obj\Debug\net6.0\Задача 27.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\ДОМАШНЕЕ ЗАДАНИЕ ПО c#\DZ\Задача 27\obj\Debug\net6.0\Задача 27.AssemblyInfo.cs
+C:\Users\1\Desktop\ДОМАШНЕЕ ЗАДАНИЕ ПО c#\DZ\Задача 27\obj\Debug\net6.0\Задача 27.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\ДОМАШНЕЕ ЗАДАНИЕ ПО c#\DZ\Задача 27\obj\Debug\net6.0\Задача 27.dll
+C:\Users\1\Desktop\ДОМАШНЕЕ ЗАДАНИЕ ПО c#\DZ\Задача 27\obj\Debug\net6.0\refint\Задача 27.dll
+C:\Users\1\Desktop\ДОМАШНЕЕ ЗАДАНИЕ ПО c#\DZ\Задача 27\obj\Debug\net6.0\Задача 27.pdb
+C:\Users\1\Desktop\ДОМАШНЕЕ ЗАДАНИЕ ПО c#\DZ\Задача 27\obj\Debug\net6.0\Задача 27.genruntimeconfig.cache
+C:\Users\1\Desktop\ДОМАШНЕЕ ЗАДАНИЕ ПО c#\DZ\Задача 27\obj\Debug\net6.0\ref\Задача 27.dll
