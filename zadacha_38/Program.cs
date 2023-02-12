@@ -25,7 +25,7 @@ void FillArrayRandomNumbers(int[] number)
 {
     for (int i = 0; i < number.Length; i++)
     {
-        number[i] = Convert.ToInt32(new Random().Next(100, 1000)) / 100;
+        number[i] = Convert.ToInt32(new Random().Next(1, 10));
     }
 }
 void PrintArray(int[] number)
