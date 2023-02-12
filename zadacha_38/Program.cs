@@ -6,21 +6,6 @@ int[] number = new int[size];
 FillArrayRandomNumbers(number);
 Console.WriteLine("Массив: ");
 PrintArray(number);
-int min = Int32.MaxValue;
-int max = Int32.MinValue;
-for (int j = 0; j < number.Length; j++)
-{
-    if (number[j] > max)
-    {
-        max = number[j];
-    }
-    if (number[j] < min)
-    {
-        min = number[j];
-    }
-}
-Console.WriteLine($"Всего в массиве {number.Length} чисел. Максимальное = {max}, Минимальное = {min}");
-Console.WriteLine($"Разность между максимальным и минимальным = {max - min}");
 void FillArrayRandomNumbers(int[] number)
 {
     for (int i = 0; i < number.Length; i++)
@@ -38,3 +23,18 @@ void PrintArray(int[] number)
     Console.Write("]");
     Console.WriteLine();
 }
+int min = Int32.MaxValue;
+int max = Int32.MinValue;
+for (int j = 0; j < number.Length; j++)
+{
+    if (number[j] > max)
+    {
+        max = number[j];
+    }
+    if (number[j] < min)
+    {
+        min = number[j];
+    }
+}
+Console.WriteLine($"Всего в массиве {number.Length} чисел. Максимальное = {max}, Минимальное = {min}");
+Console.WriteLine($"Разность между максимальным и минимальным = {max - min}");
