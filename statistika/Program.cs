@@ -86,7 +86,6 @@ for (int i = 0; i < number.Length; i++)
         threeIndex++;
     }
 }
-// Console.WriteLine($"Даты зачетов: [{string.Join(", ", number)}]");
 Console.WriteLine($"Даты, когда получали оценку 4 :  [{string.Join(", ", fourArray)}]");
 Console.WriteLine($"Даты, когда получали оценку 3 :  [{string.Join(", ", threeArray)}]");
 if (f >= t)
