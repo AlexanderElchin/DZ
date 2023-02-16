@@ -20,7 +20,10 @@ double x3 = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введите y3: ");
 double y3 = Convert.ToInt32(Console.ReadLine());
 double s = 0.5 * (x1 * (y2 - y3) + x2 * (y3 - y1) + x3 * (y1 - y2));
-Console.WriteLine($"s:{s * (-1)}");
+if (s < 0)
+    Console.WriteLine($"s:{s * (-1)}");
+else
+    Console.WriteLine($"s:{s}");
 
 
 
