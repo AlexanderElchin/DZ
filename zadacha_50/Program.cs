@@ -15,7 +15,7 @@ void InputMatrix(int[,] matrix)
     for (int i = 0; i < matrix.GetLength(0); i++)
     {
         for (int j = 0; j < matrix.GetLength(1); j++)
-            matrix[i, j] = new Random().Next(1, 10); // [1, 20]
+            matrix[i, j] = new Random().Next(1, 10); // [1, 9]
     }
 }
 InputMatrix(matrix);
@@ -45,7 +45,7 @@ void Address(int[,] matrix, int proverka)
         {
             if (matrix[i, j] == proverka)
             {
-                Console.WriteLine($"Число расположено в {i + 1} строке, {j + 1} столбце\t ");
+                Console.WriteLine($"Число расположено в {i + 1} строке, {j + 1} столбце\t "); // для пользователя, что бы считать не с 0
                 return;
             }
 
