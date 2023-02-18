@@ -14,7 +14,7 @@ void InputMatrix(double[,] matrix)
     for (int i = 0; i < matrix.GetLength(0); i++)
     {
         for (int j = 0; j < matrix.GetLength(1); j++)
-            matrix[i, j] = Convert.ToDouble(new Random().Next(-100, 100)) / 10; // [1, 20]
+            matrix[i, j] = Convert.ToDouble(new Random().Next(-99, 100)) / 10; // [-99, 99]
     }
 }
 InputMatrix(matrix);
@@ -28,7 +28,4 @@ void PrintMatrix(double[,] matrix)
         Console.WriteLine();
     }
 }
-
 PrintMatrix(matrix);
-
-
